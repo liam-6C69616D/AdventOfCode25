@@ -2,5 +2,6 @@
 *.txt
 __pycache__
 build
+node_modules
 
 !CMakeLists.txt
